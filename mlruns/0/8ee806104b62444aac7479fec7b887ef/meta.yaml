@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mayal/Desktop/INeuronClass/DLVNLP/ML_Flow_demo/mlruns/0/8ee806104b62444aac7479fec7b887ef/artifacts
+end_time: 1638668673346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8ee806104b62444aac7479fec7b887ef
+run_uuid: 8ee806104b62444aac7479fec7b887ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638668670881
+status: 3
+tags: []
+user_id: mayal
